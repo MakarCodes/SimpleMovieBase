@@ -1,0 +1,2 @@
+This is simple movie base project, where user can adding and filtering films on typing letters on the keyboard. 
+It was created using JavaScript to imrpove my knowledge and give me some practise opportunity to play around with the code :)
